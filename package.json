@@ -1,0 +1,20 @@
+{
+  "name": "raa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^14.8.1",
+    "compromise-dates": "^3.4.1",
+    "moment": "^2.29.4",
+    "rrule": "^2.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
